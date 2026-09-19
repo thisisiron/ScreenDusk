@@ -1,0 +1,6 @@
+# Build output is published on the Releases page instead.
+*.exe
+
+# Design drafts and local notes.
+mockups/
+docs/
